@@ -1,0 +1,27 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+h2 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+img.rounded-circle {
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
+}
+
+table {
+  margin-top: 20px;
+}
